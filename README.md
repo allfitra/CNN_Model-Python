@@ -28,3 +28,7 @@ Model CNN ini dikembangkan sepenuhnya tanpa menggunakan library umum seperti Ker
 Dengan menyesuaikan dataset dan label, pengguna dapat dengan mudah mengadaptasi model ini sesuai kebutuhan klasifikasi teks.
 
 🧩 Model ini merupakan solusi ideal bagi yang ingin belajar CNN dari dasar, mengembangkan sistem klasifikasi teks yang fleksibel, atau mengeksplorasi arsitektur deep learning secara manual.
+
+## Support and Contact
+
+For any issues or queries, feel free to reach out to us on [My Website](https://allfitra-fadjri.my.id/).
